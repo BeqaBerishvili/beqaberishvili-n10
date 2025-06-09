@@ -1,0 +1,17 @@
+ul{
+ display: flex;
+justify-content: flex-end;
+}
+div{
+    display: flex;
+    justify-content: flex-start;
+}
+li{
+    padding: 50px 52px;
+}
+p{
+    color: white;
+}
+.photo{
+    background-image: url(images/image.png);
+}
